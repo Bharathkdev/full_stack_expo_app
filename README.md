@@ -1,3 +1,8 @@
+<img width="225" alt="aora_app_main" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/ab653919-1182-4b2e-adad-41f125200654">
+<img width="225" alt="aora_app_home" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/fecc02eb-b3a4-4ef4-8f44-6eae74b6938e">
+<img width="225" alt="aora_app_upload_video" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/12984055-bbf7-4ee1-8139-644f56ca782c">
+<img width="225" alt="aora_app_profile" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/cc0c9256-b943-4c6a-80d0-de5b40e10e31">
+
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=black&logo=react&color=61DAFB" alt="react.js" />
@@ -6,7 +11,7 @@
     <img src="https://img.shields.io/badge/NativeWind-black?style=for-the-badge&logoColor=black&logo=tailwindcss&color=06B6D4" alt="nativewind" />
   </div>
 
-  <h3 align="center">Aora - React Native Expo Video Sharing App</h3>
+  <h3 align="center">Aora - A Full Stack React Native Expo Video Streaming and Sharing App</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>

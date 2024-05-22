@@ -1,7 +1,7 @@
-<img width="225" alt="aora_app_main" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/ab653919-1182-4b2e-adad-41f125200654">
-<img width="225" alt="aora_app_home" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/fecc02eb-b3a4-4ef4-8f44-6eae74b6938e">
-<img width="225" alt="aora_app_upload_video" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/12984055-bbf7-4ee1-8139-644f56ca782c">
-<img width="225" alt="aora_app_profile" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/cc0c9256-b943-4c6a-80d0-de5b40e10e31">
+<img width="175" alt="aora_app_main" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/ab653919-1182-4b2e-adad-41f125200654">
+<img width="175" alt="aora_app_home" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/fecc02eb-b3a4-4ef4-8f44-6eae74b6938e">
+<img width="175" alt="aora_app_upload_video" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/12984055-bbf7-4ee1-8139-644f56ca782c">
+<img width="175" alt="aora_app_profile" src="https://github.com/Bharathkdev/full_stack_expo_app/assets/46343966/cc0c9256-b943-4c6a-80d0-de5b40e10e31">
 
 <div align="center">
   <div>

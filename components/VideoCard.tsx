@@ -78,7 +78,6 @@ const VideoCard = ({ video: { $id, title, thumbnail, video, liked, creator: { us
                     resizeMode={ResizeMode.COVER}
                     onLoadStart={() => setIsBuffering(true)}
                     onLoad={() => setIsBuffering(false)}
-                    vide
                     posterSource={{ uri: thumbnail }}
                     posterStyle={{
                         resizeMode: 'cover',

@@ -49,7 +49,7 @@ this app showcases impressive design and functionality, enabling seamless sharin
 
 👉 **Full-Text Search Capability**: Efficiently search through videos with real-time suggestions and instant results.
 
-👉 **Tab Navigation**: Navigate between sections like Home, Search, Bookmark, create and Profile with ease using tab navigation.
+👉 **Tab Navigation**: Navigate between sections like Home, Search, Bookmark, Create and Profile with ease using tab navigation.
 
 👉 **Post Creation Screen for Uploading Media**: Upload video and image posts directly from the app with integrated media selection for both Android and iOS.
 

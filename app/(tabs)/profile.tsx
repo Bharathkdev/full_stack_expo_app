@@ -1,5 +1,6 @@
-import React, { useCallback, useEffect, useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import { View, FlatList, TouchableOpacity, Text } from 'react-native';
+import { useFocusEffect } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import EmptyState from '@/components/EmptyState';
 import { Image } from 'expo-image';
@@ -17,9 +18,12 @@ const Profile = () => {
   const { data: posts, refetch, isLoading } = useAppWrite(() => getUserPosts(user.$id)); 
   const [isSigningOut, setIsSigningOut] = useState(false);
 
-  useEffect(() => {
-    refetch();
-  }, [isLiked]);
+  useFocusEffect(
+    useCallback(() => {
+      refetch();
+    }, [isLiked])
+  );
+
 
   const renderItem = useCallback((item) => {
     return <VideoCard video={item} />;

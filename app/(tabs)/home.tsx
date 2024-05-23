@@ -1,6 +1,7 @@
-import React, { useCallback, useEffect, useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import { View, Text, FlatList, RefreshControl } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useFocusEffect } from '@react-navigation/native';
 import { Image } from 'expo-image';
 import { images } from '@/constants';
 import SearchInput from '@/components/SearchInput';
@@ -18,10 +19,12 @@ const Home = () => {
   const { data: latestPosts, refetch: refetchLatestVideos } = useAppWrite(getLatestPosts); 
   const[refreshing, setRefreshing] = useState(false);
 
-  useEffect(() => {
-    refetchAllVideos();
-    refetchLatestVideos();
-  }, [isLiked]);
+  useFocusEffect(
+    useCallback(() => {
+      refetchAllVideos();
+      refetchLatestVideos();
+    }, [isLiked])
+  );
 
   const onRefresh = async () => {
     setRefreshing(true);

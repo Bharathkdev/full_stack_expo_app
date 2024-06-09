@@ -33,6 +33,7 @@ this app showcases impressive design and functionality, enabling seamless sharin
 
 - React Native
 - Expo
+- Typescript
 - Nativewind
 - Animatable
 - Appwrite
